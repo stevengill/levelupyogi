@@ -1,0 +1,11 @@
+{
+  "name": "levelupyogi",
+  "version": "0.0.1",
+  "description": "App for progressively learning yoga technqiues and getting achievements\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Gill, Stephanie Snopek",
+  "license": "ISC"
+}
